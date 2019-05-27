@@ -1,6 +1,6 @@
 ---
-title: Awesome kitties
-date: 2019-03-17T19:31:20.591Z
+title: Awesome kitties - Kawaii
+date: 2019-03-16T19:31:20.591Z
 cats:
   - description: Lil Bub is an American celebrity cat known for her unique appearance.
     name: Lil Bub
@@ -8,6 +8,8 @@ cats:
     name: Maru (まる)
   - description: 'Grumpy cat is an American celebrity cat known for her grumpy appearance. '
     name: Grumpy cat (Tardar Sauce)
+  - description: Cato malhumorado
+    name: Shaggy
 ---
 Welcome to my **awesome** page about cats of the internet. 
 
