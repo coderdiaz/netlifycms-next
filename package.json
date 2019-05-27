@@ -10,15 +10,12 @@
   "scripts": {
     "dev": "node ./server.js",
     "build": "next build",
-    "start": "cross-env NODE_ENV=production node ./server.js"
+    "start": "NODE_ENV=production node ./server.js"
   },
   "dependencies": {
     "fastify": "^2.4.1",
     "next": "^8.1.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
-  },
-  "devDependencies": {
-    "crossenv": "^0.0.2-security"
   }
 }
