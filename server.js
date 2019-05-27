@@ -17,7 +17,7 @@ fastify.register((fastify, opts, next) => {
 
       // Handler for Post's requests
       fastify.get('/p/:id', (request, reply) => {
-        const params = { title: request.params.id }
+        const params = { id: request.params.id }
         return app.render(request.req, reply.res, '/post', params).then(() => {
           reply.sent = true
         })
