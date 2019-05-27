@@ -1,5 +1,4 @@
 import withLayout from '../components/Layout'
-import Link from 'next/link'
 
 const Blog = () => (
   <div>
