@@ -10,9 +10,9 @@ cats:
     name: Grumpy cat (Tardar Sauce)
   - description: Cato malhumorado
     name: Shaggy
+  - description: Es un gato Gordo! y flojo como Gardfield
+    name: Jaimico
 ---
 Welcome to my **awesome** page about cats of the internet. 
-
-![IMAGEN](/static/img/avatar.jpg "DLKSJFLKJSDLFJDS")
 
 This page is built with NextJS, and content is managed in Netlify CMS
